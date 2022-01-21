@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Le A36664</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm A36664</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=A36664&label=Profile%20views&color=42b883&style=flat" alt="A36664" /> </p>
