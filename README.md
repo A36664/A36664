@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/nguy%e1%bb%85n-v%c4%83n-l%e1%bb%b1c-900a93224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguy%e1%bb%85n-v%c4%83n-l%e1%bb%b1c-900a93224/" height="30" width="40" /></a>
 <a href="https://kaggle.com/a36664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="a36664" height="30" width="40" /></a>
 <a href="https://fb.com/100029804711975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100029804711975" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc7ocfhboue_i-qfza8w9e6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7ocfhboue_i-qfza8w9e6w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC7oCfhBOue_I-QFzA8W9e6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7ocfhboue_i-qfza8w9e6w" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/a36664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="a36664" height="30" width="40" /></a>
 </p>
 
