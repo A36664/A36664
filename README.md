@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-- 🏫  I'm a student at University of Information Technology - TLU
+- 🏫  I'm a student at Thang Long University - TLU
 
 - 📚  My major is Information Technology
 
