@@ -1,18 +1,21 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm A36664</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm A36664!
+  <img src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif" width="50">
+</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=A36664&label=Profile%20views&color=42b883&style=flat" alt="A36664" /> </p>
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/A36664?style=social"></img>
+</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-- 🏫  I'm a student at Thang Long University - TLU
+- 🏫  I'm a student at Thang Long University - TLU <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
-- 📚  My major is Information Technology
+- 📚  My major is Information Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌱  I’m currently learning **Machine Learning**
+- 🌱  I’m currently learning **Machine Learning** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 💯  I regularly write articles on [youtube.com/A36664](https://www.youtube.com/channel/UC7oCfhBOue_I-QFzA8W9e6w)
-
+- 💯  I regularly write articles on [![youtube.com/A36664](https://img.shields.io/youtube/channel/subscribers/UC7oCfhBOue_I-QFzA8W9e6w?style=social)](https://www.youtube.com/channel/UC7oCfhBOue_I-QFzA8W9e6w) :)) [![youtube.com/A36664](https://img.shields.io/youtube/channel/views/UC7oCfhBOue_I-QFzA8W9e6w?style=social)](https://www.youtube.com/channel/UC7oCfhBOue_I-QFzA8W9e6w)
 - 💖  Doing what I love and Loving what I do
 
 <h3 align="left">Connect with me:</h3>
@@ -50,3 +53,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
