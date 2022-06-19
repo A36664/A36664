@@ -39,14 +39,15 @@
 
 </h3>
 <p align="center"> 
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=A36664&hide=issues,contribs&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true"         alt="A36664's Github Stats" /> 
 </p>
-<p align="left"> 
- <img src="https://github-readme-stats.vercel.app/api?username=A36664&hide=issues,contribs&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true"         alt="A36664's Github Stats" height="120" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A36664&layout=compact&theme=noctis_minimus&langs_count=10&card_width=445&hide_border=true&exclude_repo=Person-Detection,Machine_Learning" height="120"
-       alt="Language Stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A36664&theme=noctis-minimus&hide_border=true" alt="GitHub Streak" height="120"/> 
+<p align="center"> 
  
+   
+  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A36664&theme=noctis-minimus&hide_border=true" alt="GitHub Streak" height="100"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A36664&layout=compact&theme=noctis_minimus&langs_count=10&card_width=445&hide_border=true&exclude_repo=Person-Detection,Machine_Learning" height="100"
+       alt="Language Stats" />
 </p>
 
 
