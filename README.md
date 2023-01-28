@@ -52,7 +52,7 @@
 
 
 
-<h3 align="left"> Support: <a href="https://www.youtube.com/channel/UC7oCfhBOue_I-QFzA8W9e6w"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy A36664 a coffee" /></a>
+<h3 align="left"> Support: <a href="https://www.youtube.com/@hoctaptinhoc/about"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="Buy A36664 a coffee" /></a>
   <img  src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif"  width="100" />
 </h3>
 
